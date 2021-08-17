@@ -1,1 +1,1 @@
-# You may download sample data to explore nlp topic modeling app on https://www.quantiai.one.
+# You may download sample data to explore QUANTIAI's nlp topic modeling app on https://www.quantiai.one.
